@@ -2,6 +2,7 @@
 # Run FastAPI and Vite dev server (5173) together.
 # Uses PORT=8001 by default so an old server on 8000 does not block (override with PORT=8000).
 # Requires: Python venv with deps, `npm install` in ./frontend
+
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
