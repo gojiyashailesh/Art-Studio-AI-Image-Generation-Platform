@@ -18,10 +18,13 @@
 ## 🎬 Demo
 
 <p align="center">
-  <video controls width="720">
-    <source src="https://raw.githubusercontent.com/gojiyashailesh/Agentic-AI--Samples-/main/frontend/public/screencast/demo.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://youtu.be/f2Ql0oQzZTc?si=NWQ8jNElMp4DKEEQ">
+    <img src="https://img.youtube.com/vi/f2Ql0oQzZTc/maxresdefault.jpg" alt="Watch the Art Studio demo" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/f2Ql0oQzZTc?si=NWQ8jNElMp4DKEEQ">▶ Watch the demo on YouTube</a>
 </p>
 
 ## ✨ Features
