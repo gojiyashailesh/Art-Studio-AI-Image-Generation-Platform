@@ -1,2 +1,6 @@
 //dependencies 
 .venv
+
+
+//secrets
+.env
